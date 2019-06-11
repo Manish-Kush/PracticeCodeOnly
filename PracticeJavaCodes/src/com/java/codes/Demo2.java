@@ -14,5 +14,6 @@ public  class Demo2
 		t.equals("abc");
 		
 		t.equals("Dev 2 comment");
+		System.out.println("commit two by second developer");
 	}
 }
